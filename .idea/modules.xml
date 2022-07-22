@@ -7,6 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidLab.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidLab.app.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidLab.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidLab.app.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidLab.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidLab.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch7_layout/AndroidLab.ch7_layout.iml" filepath="$PROJECT_DIR$/.idea/modules/ch7_layout/AndroidLab.ch7_layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch7_layout/AndroidLab.ch7_layout.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ch7_layout/AndroidLab.ch7_layout.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch7_layout/AndroidLab.ch7_layout.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ch7_layout/AndroidLab.ch7_layout.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch7_layout/AndroidLab.ch7_layout.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ch7_layout/AndroidLab.ch7_layout.unitTest.iml" />
     </modules>
   </component>
 </project>
